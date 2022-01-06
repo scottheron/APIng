@@ -1,0 +1,26 @@
+{
+  "name": "aping",
+  "version": "1.0.0",
+  "description": "This is a tool to make calls to a REST API to perform CRUD actions. (Postman Clone)",
+  "main": "index.js",
+  "scripts": {
+    "start": "snowpack dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scottheron/APIng.git"
+  },
+  "author": "Scott Heron",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scottheron/APIng/issues"
+  },
+  "homepage": "https://github.com/scottheron/APIng#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "bootstrap": "^5.1.3"
+  },
+  "devDependencies": {
+    "snowpack": "^3.8.8"
+  }
+}
