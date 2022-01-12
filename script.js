@@ -1,5 +1,5 @@
-import axios from "./node_modules/axios"
-import prettyBytes from "./node_modules/pretty-bytes"
+import axios from "axios"
+import  prettyBytes from "pretty-bytes"
 import setupEditors from "./setupEditor.js"
 
 const form = document.querySelector("[data-form]")
