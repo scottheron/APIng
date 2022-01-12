@@ -1,6 +1,6 @@
 import axios from "./node_modules/axios"
 import prettyBytes from "./node_modules/pretty-bytes"
-import setupEditors from "./setupEditor"
+import setupEditors from "./setupEditor.js"
 
 const form = document.querySelector("[data-form]")
 const queryParamsContainer = document.querySelector("[data-query-params]")
