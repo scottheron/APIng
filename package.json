@@ -7,7 +7,6 @@
     "node": "17.2.0"
   },
   "scripts": {
-    "build": "snowpack build",
     "start": "http-server",
     "startDev": "snowpack dev"
   },
